@@ -34,6 +34,9 @@ input{
 input::placeholder{
     color: #181717;
 }
+input:focus{
+    outline: none;
+}
 button{
     border: none;
     width: 60px;
